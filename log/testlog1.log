@@ -194,3 +194,8 @@
 2020-06-04 00:27:06,797 [main] INFO Bank - Entered password
 2020-06-04 00:27:14,557 [main] INFO Bank - Login test passed-1
 2020-06-04 00:27:14,584 [main] INFO Bank - Login test passed
+2020-06-04 22:33:50,537 [main] INFO Bank - URL is opened
+2020-06-04 22:34:04,254 [main] INFO Bank - Entered username
+2020-06-04 22:34:04,506 [main] INFO Bank - Entered password
+2020-06-04 22:34:09,963 [main] INFO Bank - Login test passed-1
+2020-06-04 22:34:10,032 [main] INFO Bank - Login test passed

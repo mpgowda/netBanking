@@ -1,0 +1,196 @@
+2020-06-01 15:40:49,036 [main] INFO Bank - URL is opened
+2020-06-01 15:41:10,028 [main] INFO Bank - Entered username
+2020-06-01 15:41:10,444 [main] INFO Bank - Entered password
+2020-06-01 15:41:19,291 [main] INFO Bank - Login test passed
+2020-06-01 15:45:05,050 [main] INFO Bank - URL is opened
+2020-06-01 15:45:09,152 [main] INFO Bank - Entered username
+2020-06-01 15:45:09,745 [main] INFO Bank - Entered password
+2020-06-01 15:45:31,440 [main] INFO Bank - Login test passed
+2020-06-01 15:54:18,962 [main] INFO Bank - URL is opened
+2020-06-01 15:54:20,513 [main] INFO Bank - Entered username
+2020-06-01 15:54:21,885 [main] INFO Bank - Entered password
+2020-06-01 15:54:28,441 [main] INFO Bank - Login test passed
+2020-06-01 16:03:25,286 [TestNG] INFO Bank - URL is opened
+2020-06-01 16:03:36,601 [TestNG] INFO Bank - Entered username
+2020-06-01 16:03:36,969 [TestNG] INFO Bank - Entered password
+2020-06-01 16:03:44,501 [TestNG] INFO Bank - Login test passed
+2020-06-01 16:07:12,298 [TestNG] INFO Bank - URL is opened
+2020-06-01 16:07:23,864 [TestNG] INFO Bank - Entered username
+2020-06-01 16:07:24,404 [TestNG] INFO Bank - Entered password
+2020-06-01 16:07:36,616 [TestNG] INFO Bank - Login test passed
+2020-06-01 16:07:56,562 [TestNG] INFO Bank - URL is opened
+2020-06-01 16:07:57,017 [TestNG] INFO Bank - Entered username
+2020-06-01 16:07:57,376 [TestNG] INFO Bank - Entered password
+2020-06-01 16:08:05,453 [TestNG] INFO Bank - Login test passed
+2020-06-01 16:30:07,286 [main] INFO Bank - URL is opened
+2020-06-01 16:30:08,051 [main] INFO Bank - Entered username
+2020-06-01 16:30:08,209 [main] INFO Bank - Entered password
+2020-06-01 19:59:06,137 [main] INFO Bank - URL is opened
+2020-06-01 19:59:20,747 [main] INFO Bank - Entered username
+2020-06-01 19:59:20,982 [main] INFO Bank - Entered password
+2020-06-01 20:07:12,812 [main] INFO Bank - URL is opened
+2020-06-01 20:07:13,054 [main] INFO Bank - Entered username
+2020-06-01 20:07:13,194 [main] INFO Bank - Entered password
+2020-06-01 20:07:16,238 [main] INFO Bank - Screenshot open
+2020-06-01 20:14:30,325 [main] INFO Bank - URL is opened
+2020-06-01 20:14:30,583 [main] INFO Bank - Entered username
+2020-06-01 20:14:30,722 [main] INFO Bank - Entered password
+2020-06-01 20:14:34,416 [main] INFO Bank - Screenshot open
+2020-06-01 20:18:08,329 [main] INFO Bank - URL is opened
+2020-06-01 20:18:08,670 [main] INFO Bank - Entered username
+2020-06-01 20:18:08,820 [main] INFO Bank - Entered password
+2020-06-01 20:18:14,946 [main] INFO Bank - Screenshot open
+2020-06-01 20:20:57,072 [main] INFO Bank - URL is opened
+2020-06-01 20:44:42,064 [main] INFO Bank - URL is opened
+2020-06-01 20:44:42,520 [main] INFO Bank - Entered username
+2020-06-01 20:44:42,804 [main] INFO Bank - Entered password
+2020-06-01 20:44:43,148 [main] INFO Bank - Screenshot open
+2020-06-01 20:45:58,896 [main] INFO Bank - URL is opened
+2020-06-01 20:45:59,120 [main] INFO Bank - Entered username
+2020-06-01 20:45:59,248 [main] INFO Bank - Entered password
+2020-06-01 20:46:04,499 [main] INFO Bank - Screenshot open
+2020-06-01 20:47:42,719 [main] INFO Bank - URL is opened
+2020-06-01 20:47:42,985 [main] INFO Bank - Entered username
+2020-06-01 20:47:43,127 [main] INFO Bank - Entered password
+2020-06-01 20:47:47,389 [main] INFO Bank - Screenshot open
+2020-06-01 20:47:47,390 [main] INFO Bank - screenshot
+2020-06-01 22:18:15,690 [main] INFO Bank - URL is opened
+2020-06-01 22:18:17,293 [main] INFO Bank - Entered username
+2020-06-01 22:18:17,491 [main] INFO Bank - Entered password
+2020-06-01 22:18:24,236 [main] INFO Bank - Screenshot open
+2020-06-01 22:18:24,238 [main] INFO Bank - screenshot
+2020-06-01 22:20:23,800 [main] INFO Bank - URL is opened
+2020-06-01 22:20:26,373 [main] INFO Bank - Entered username
+2020-06-01 22:20:26,520 [main] INFO Bank - Entered password
+2020-06-01 22:20:42,350 [main] INFO Bank - Screenshot open
+2020-06-01 22:20:42,351 [main] INFO Bank - screenshot
+2020-06-01 22:34:04,680 [main] INFO Bank - URL is opened
+2020-06-01 22:34:06,422 [main] INFO Bank - Entered username
+2020-06-01 22:34:06,575 [main] INFO Bank - Entered password
+2020-06-01 22:34:07,090 [main] INFO Bank - Screenshot open
+2020-06-01 22:34:07,090 [main] INFO Bank - screenshot
+2020-06-01 22:35:46,214 [main] INFO Bank - URL is opened
+2020-06-01 22:35:46,558 [main] INFO Bank - Entered username
+2020-06-01 22:35:46,773 [main] INFO Bank - Entered password
+2020-06-01 22:35:46,924 [main] INFO Bank - Screenshot open
+2020-06-01 22:35:46,925 [main] INFO Bank - screenshot
+2020-06-01 23:31:26,580 [main] INFO Bank - URL is opened
+2020-06-01 23:33:23,244 [main] INFO Bank - URL is opened
+2020-06-01 23:33:34,695 [main] INFO Bank - Entered username
+2020-06-01 23:33:43,621 [main] INFO Bank - Entered password
+2020-06-01 23:33:49,150 [main] INFO Bank - Screenshot open
+2020-06-01 23:33:49,151 [main] INFO Bank - screenshot
+2020-06-01 23:41:12,014 [main] INFO Bank - URL is opened
+2020-06-01 23:41:12,280 [main] INFO Bank - Entered username
+2020-06-01 23:41:12,406 [main] INFO Bank - Entered password
+2020-06-01 23:41:13,056 [main] INFO Bank - Screenshot open
+2020-06-01 23:41:13,057 [main] INFO Bank - screenshot
+2020-06-02 08:31:02,888 [main] INFO Bank - URL is opened
+2020-06-02 08:31:06,379 [main] INFO Bank - Entered username
+2020-06-02 08:31:06,562 [main] INFO Bank - Entered password
+2020-06-02 08:31:10,881 [main] INFO Bank - Login test failed
+2020-06-02 08:31:10,884 [main] INFO Bank - Screenshot open
+2020-06-02 08:31:10,886 [main] INFO Bank - screenshot
+2020-06-02 08:31:12,487 [main] INFO Bank - URL is opened
+2020-06-02 08:39:52,534 [TestNG] INFO Bank - URL is opened
+2020-06-02 08:39:55,660 [TestNG] INFO Bank - Entered username
+2020-06-02 08:39:56,302 [TestNG] INFO Bank - Entered password
+2020-06-02 08:39:57,166 [TestNG] INFO Bank - Login test failed
+2020-06-02 08:39:57,166 [TestNG] INFO Bank - Screenshot open
+2020-06-02 08:39:57,167 [TestNG] INFO Bank - screenshot
+2020-06-02 11:36:44,938 [main] INFO Bank - user name provided
+2020-06-02 11:36:45,458 [main] INFO Bank - password provided
+2020-06-02 11:36:53,599 [main] INFO Bank - Login passed
+2020-06-02 11:37:04,663 [main] INFO Bank - user name provided
+2020-06-02 11:37:04,806 [main] INFO Bank - password provided
+2020-06-02 11:37:11,603 [main] INFO Bank - user name provided
+2020-06-02 11:37:11,762 [main] INFO Bank - password provided
+2020-06-02 11:37:18,759 [main] INFO Bank - user name provided
+2020-06-02 11:37:18,933 [main] INFO Bank - password provided
+2020-06-02 11:37:24,307 [main] INFO Bank - Login passed
+2020-06-02 11:37:32,907 [main] INFO Bank - user name provided
+2020-06-02 11:37:33,039 [main] INFO Bank - password provided
+2020-06-02 13:08:04,273 [main] INFO Bank - User name is provided
+2020-06-02 13:08:04,860 [main] INFO Bank - Passsword is provided
+2020-06-02 13:08:13,597 [main] INFO Bank - providing customer details....
+2020-06-02 13:08:24,261 [main] INFO Bank - validation started....
+2020-06-02 13:08:24,317 [main] INFO Bank - test case failed....
+2020-06-02 13:08:24,317 [main] INFO Bank - screenshot
+2020-06-02 13:14:29,585 [main] INFO Bank - User name is provided
+2020-06-02 13:14:36,634 [main] INFO Bank - Passsword is provided
+2020-06-02 13:14:44,064 [main] INFO Bank - providing customer details....
+2020-06-02 13:14:54,107 [main] INFO Bank - validation started....
+2020-06-02 13:14:54,132 [main] INFO Bank - test case failed....
+2020-06-02 13:14:54,132 [main] INFO Bank - screenshot
+2020-06-02 13:24:47,155 [main] INFO Bank - User name is provided
+2020-06-02 13:24:47,578 [main] INFO Bank - Passsword is provided
+2020-06-02 13:24:52,252 [main] INFO Bank - providing customer details....
+2020-06-02 13:25:02,375 [main] INFO Bank - validation started....
+2020-06-02 13:25:02,399 [main] INFO Bank - test case failed....
+2020-06-02 13:25:02,400 [main] INFO Bank - screenshot
+2020-06-02 13:30:48,177 [main] INFO Bank - User name is provided
+2020-06-02 13:30:49,324 [main] INFO Bank - Passsword is provided
+2020-06-02 13:30:58,448 [main] INFO Bank - providing customer details....
+2020-06-02 13:31:08,868 [main] INFO Bank - validation started....
+2020-06-02 13:31:08,922 [main] INFO Bank - test case failed....
+2020-06-02 13:31:08,923 [main] INFO Bank - screenshot
+2020-06-02 13:36:47,238 [main] INFO Bank - URL is opened
+2020-06-02 13:36:48,005 [main] INFO Bank - Entered username
+2020-06-02 13:36:48,186 [main] INFO Bank - Entered password
+2020-06-02 13:36:51,397 [main] INFO Bank - Login test passed-1
+2020-06-02 13:36:51,413 [main] INFO Bank - Login test passed
+2020-06-02 13:37:30,422 [main] INFO Bank - user name provided
+2020-06-02 13:37:31,066 [main] INFO Bank - password provided
+2020-06-02 13:37:42,045 [main] INFO Bank - Login passed
+2020-06-02 13:37:50,355 [main] INFO Bank - user name provided
+2020-06-02 13:37:50,507 [main] INFO Bank - password provided
+2020-06-02 13:37:56,948 [main] INFO Bank - user name provided
+2020-06-02 13:37:57,102 [main] INFO Bank - password provided
+2020-06-02 13:38:04,513 [main] INFO Bank - user name provided
+2020-06-02 13:38:04,660 [main] INFO Bank - password provided
+2020-06-02 13:38:11,095 [main] INFO Bank - Login passed
+2020-06-02 13:38:19,335 [main] INFO Bank - user name provided
+2020-06-02 13:38:19,489 [main] INFO Bank - password provided
+2020-06-02 13:38:47,915 [main] INFO Bank - User name is provided
+2020-06-02 13:38:48,082 [main] INFO Bank - Passsword is provided
+2020-06-02 13:38:57,002 [main] INFO Bank - providing customer details....
+2020-06-02 13:39:07,531 [main] INFO Bank - validation started....
+2020-06-02 13:39:07,597 [main] INFO Bank - test case failed....
+2020-06-02 13:39:07,598 [main] INFO Bank - screenshot
+2020-06-02 19:32:28,525 [main] INFO Bank - URL is opened
+2020-06-02 19:32:56,228 [main] INFO Bank - Entered username
+2020-06-02 19:32:56,463 [main] INFO Bank - Entered password
+2020-06-02 19:33:01,366 [main] INFO Bank - Login test passed-1
+2020-06-02 19:33:01,380 [main] INFO Bank - Login test passed
+2020-06-02 22:53:50,696 [main] INFO Bank - URL is opened
+2020-06-02 22:54:34,548 [main] INFO Bank - Entered username
+2020-06-02 22:54:34,708 [main] INFO Bank - Entered password
+2020-06-02 22:54:37,128 [main] INFO Bank - Login test failed
+2020-06-02 22:54:37,129 [main] INFO Bank - Screenshot open
+2020-06-02 22:54:37,130 [main] INFO Bank - screenshot
+2020-06-02 23:02:45,997 [main] INFO Bank - URL is opened
+2020-06-02 23:02:52,906 [main] INFO Bank - Entered username
+2020-06-02 23:02:53,054 [main] INFO Bank - Entered password
+2020-06-02 23:02:55,227 [main] INFO Bank - Login test failed
+2020-06-02 23:02:55,227 [main] INFO Bank - Screenshot open
+2020-06-02 23:02:55,228 [main] INFO Bank - screenshot
+2020-06-02 23:14:52,289 [main] INFO Bank - URL is opened
+2020-06-02 23:14:52,526 [main] INFO Bank - Entered username
+2020-06-02 23:14:52,662 [main] INFO Bank - Entered password
+2020-06-02 23:14:56,356 [main] INFO Bank - Login test passed-1
+2020-06-02 23:14:56,361 [main] INFO Bank - Login test passed
+2020-06-02 23:16:28,954 [main] INFO Bank - URL is opened
+2020-06-02 23:16:29,340 [main] INFO Bank - Entered username
+2020-06-02 23:16:29,536 [main] INFO Bank - Entered password
+2020-06-02 23:16:32,223 [main] INFO Bank - Login test passed-1
+2020-06-02 23:16:32,232 [main] INFO Bank - Login test passed
+2020-06-03 00:34:10,978 [main] INFO Bank - URL is opened
+2020-06-03 00:34:39,060 [main] INFO Bank - Entered username
+2020-06-03 00:34:57,838 [main] INFO Bank - Entered password
+2020-06-03 00:35:28,252 [main] INFO Bank - Login test passed-1
+2020-06-03 00:35:29,817 [main] INFO Bank - Login test passed
+2020-06-04 00:26:47,024 [main] INFO Bank - URL is opened
+2020-06-04 00:27:06,648 [main] INFO Bank - Entered username
+2020-06-04 00:27:06,797 [main] INFO Bank - Entered password
+2020-06-04 00:27:14,557 [main] INFO Bank - Login test passed-1
+2020-06-04 00:27:14,584 [main] INFO Bank - Login test passed

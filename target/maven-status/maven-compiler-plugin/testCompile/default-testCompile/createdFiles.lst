@@ -1,0 +1,10 @@
+pom\LoginPage.class
+utilities\readConfig.class
+testCase\TC_LoginTest_001.class
+utilities\XLUtils.class
+pom\AddCustomerPage.class
+utilities\reporting.class
+testCase\horse.class
+testCase\BaseTest.class
+testCase\TC_AddCustomerTest_003.class
+testCase\TC_LoginDDT_002.class

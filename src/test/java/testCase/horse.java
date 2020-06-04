@@ -44,7 +44,7 @@ public class horse
 		
 		for(int i = 0; i<10; i++)
 		{
-			System.out.println("91" + h.randomNum(8));	
+			System.out.println("96" + h.randomNum(8));	
 		}
 		
 		
